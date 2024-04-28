@@ -1,2 +1,2 @@
-CPE106L GROUP 6 LABORATORY ACTIVITIES
+**CPE106L GROUP 6 LABORATORY ACTIVITIES**
 -> here you'll see all of the lab activity post labs in each folder
